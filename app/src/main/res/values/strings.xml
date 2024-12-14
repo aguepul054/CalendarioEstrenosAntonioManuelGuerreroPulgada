@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalendarioEstrenos</string>
+
+    <string name="ic_Description">ImageView</string>
+
+    <string name="tvTitle">Calendario de Estrenos</string>
+    <string name="tvDialog">Fecha Seleccionada</string>
+    <string name="btnNext">Pulsa Aquí</string>
+    <string name="btnDialog">Seleccionar Fecha</string>
+    <string name="btnVolver">Volver</string>
+
+    <string name="estreno1"> Blue Lock 2 Temporada</string>
+    <string name="estreno2"> Dandadan</string>
+    <string name="estreno3"> Ao no Hako</string>
+    <string name="estreno4"> Kaijuu Nº8</string>
+    <string name="estreno5"> One Piece</string>
+    <string name="estreno6"> Vinland Saga</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Este archivo esta creado para añadir un estilo personalizado al DatePickerDialog -->
+    <style name="CustomDatePickerDialog" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Este item cambia el color del fondo del dialog -->
+        <item name ="android:background">#934EF8</item>
+
+        <!-- Este item cambia el color del texto de los botones -->
+        <item name="android:textColorPrimary">#FFFFFF</item>
+
+        <!-- Este item cambia el color del texto del titulo -->
+        <item name="android:textColorPrimaryInverse">#FFFFFF</item>
+
+
+    </style>
+</resources>
